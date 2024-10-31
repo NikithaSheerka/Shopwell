@@ -1,0 +1,13 @@
+click
+Flask
+fuzzywuzzy
+imutils
+itsdangerous
+Jinja2
+MarkupSafe
+numpy
+opencv-contrib-python
+Pillow
+python-Levenshtein
+tesserocr
+Werkzeug
